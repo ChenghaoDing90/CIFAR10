@@ -34,7 +34,7 @@ Here is the screenshot of the output of model.summary().
 
 ## ResNet
 <p align="center">
-<img src="./result/resnet_loss.png" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
+<img src="./result/resnet_loss.png" alt="Summary of ResNet Model Building" style="width:300px;height:300px;" />
 </p>
 
 ### ResNet loss and accuracy versus training epochs
