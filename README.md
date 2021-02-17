@@ -32,11 +32,10 @@ Here is the screenshot of the output of model.summary().
 <img src="./result/vgg_loss.png" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
 </p>
 
-<p align="center">
-<img src="./result/vgg_submission.csv" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
-</p>
-
 ## ResNet
+<p align="center">
+<img src="./result/resnet_loss.png" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
+</p>
 
 ### ResNet loss and accuracy versus training epochs
 The training/validation loss and accuracy versus training epochs are shown below. After 200 epochs, the test accuracy is around 0.90840. But looking carefully, after epoch 75, the training loss is still dropping while testing loss do not get any better since then. So the model seems to overfit.
