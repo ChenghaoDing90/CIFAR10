@@ -28,6 +28,13 @@ Here is the screenshot of the output of model.summary().
 </p>
 
 ### VGG loss and accuracy versus training epochs
+<p align="center">
+<img src="./result/vgg_loss.png" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
+</p>
+
+<p align="center">
+<img src="./result/vgg_submission.csv" alt="Summary of VGG Model Building" style="width:300px;height:300px;" />
+</p>
 
 ## ResNet
 
