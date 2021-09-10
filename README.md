@@ -24,7 +24,7 @@ Pre-trained VGG16 and VGG19 are included in Keras, here, I build a VGG-like CNN 
 Here is the screenshot of the output of model.summary().
 
 <p align="center">
-<img src="./images/Capturevgg.PNG" alt="Summary of VGG Model Building" style="width:600px;height:300px;" />
+<img src="./images/Capturevgg.PNG" alt="Summary of VGG Model Building" style="width:400px;height:400px;" />
 </p>
 
 ### VGG loss and accuracy versus training epochs
